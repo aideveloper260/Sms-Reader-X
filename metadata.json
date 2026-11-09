@@ -1,0 +1,6 @@
+{
+  "name": "SMS READER X",
+  "description": "Secure bKash, Nagad, and Rocket payment SMS gateway reader and forwarder for Telegram Bot backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
